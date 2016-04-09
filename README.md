@@ -1,5 +1,5 @@
 
-#  چرخ   |   चरखा   |  Charkha
+#  چرخ   |   चरखा   |  wheel
 The read/write client for a distributed peer-to-peer network of (social) data
 
 ## Status
