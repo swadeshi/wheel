@@ -5,6 +5,8 @@ The read/write client for a distributed peer-to-peer network of (social) data.
 
 The spinning wheel, or charkha (sanskrit चरखा, from the persian چرخ) became the symbol of the [swadeshi movement](https://en.wikipedia.org/wiki/Swadeshi_movement), which defeated colonial rule by refusing to rely on colonial industries and instead relying on distributed, local production of things like fabric for clothing.  
 
+The inspiration and intention for this project is outlined in the article on Medium titled [The internet has been stolen from you. Take it back, nonviolently.](https://medium.com/@flyingzumwalt/the-internet-has-been-stolen-from-you-take-it-back-nonviolently-248f8d445b87#.i9jem3ei7)
+
 **چرخ   चरखा  wheel**  
 
 ## Status
